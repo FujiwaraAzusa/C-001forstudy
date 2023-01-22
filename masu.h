@@ -1,0 +1,1 @@
+int masu(void);
